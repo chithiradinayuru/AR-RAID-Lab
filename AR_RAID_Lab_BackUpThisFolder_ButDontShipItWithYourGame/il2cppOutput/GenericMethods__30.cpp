@@ -30674,12 +30674,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR JobHandle_t5DF5F99902FED3C801A81C05205CEA6CE0
 		return L_4;
 	}
 }
-// Method Definition Index: 71666
-// Method Definition Index: 71666
-// Method Definition Index: 71666
-// Method Definition Index: 71666
-// Method Definition Index: 71666
-// Method Definition Index: 71666
+// Method Definition Index: 71678
+// Method Definition Index: 71678
+// Method Definition Index: 71678
+// Method Definition Index: 71678
+// Method Definition Index: 71678
+// Method Definition Index: 71678
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void* ILSupport_AddressOf_TisIl2CppFullySharedGenericStruct_m373C1FEADC4248F808294AA8958583E51840E129_fshared (Il2CppFullySharedGenericStruct* ___0_thing, const RuntimeMethod* method) 
 {
 	//<source_info:<no-source>:1>
@@ -30688,14 +30688,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void* ILSupport_AddressOf_TisIl2CppFullyShare
 		return (void*)(L_0);
 	}
 }
-// Method Definition Index: 71667
-// Method Definition Index: 71667
-// Method Definition Index: 71667
-// Method Definition Index: 71667
-// Method Definition Index: 71667
-// Method Definition Index: 71667
-// Method Definition Index: 71667
-// Method Definition Index: 71667
+// Method Definition Index: 71679
+// Method Definition Index: 71679
+// Method Definition Index: 71679
+// Method Definition Index: 71679
+// Method Definition Index: 71679
+// Method Definition Index: 71679
+// Method Definition Index: 71679
+// Method Definition Index: 71679
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Il2CppFullySharedGenericStruct* ILSupport_AsRef_TisIl2CppFullySharedGenericStruct_mE9195E637265E7F6E317ACE31DCBA0EA7A989E30_fshared (Il2CppFullySharedGenericStruct* ___0_thing, const RuntimeMethod* method) 
 {
 	//<source_info:<no-source>:1>
@@ -30704,7 +30704,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Il2CppFullySharedGenericStruct* ILSupport_AsR
 		return L_0;
 	}
 }
-// Method Definition Index: 71667
+// Method Definition Index: 71679
 // Method Definition Index: 10428
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Image_SetInlineProperty_TisIl2CppSharedGenericObject_m7BF58403B82EE35930889EF09469DB8056EA9449_gshared (Image_tAEB35FD00A2200BF406AE5EDD15B4CB24DBBB8E3* __this, Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_value, BindingId_t8BBB6188CD126EACCA07816C78760E92DC16620E ___1_binding, const RuntimeMethod* method) 
 {
